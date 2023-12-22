@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;    
+}
+
+body{
+    display: inline-block;
+    background-color: #dbe3f0;
+}
+
+.product{
+    background-color: white;
+    margin-left: 700px;
+    margin-top: 50%;
+}
+
+#companyName{
+    display: inline-block;
+}
+
+img{
+    display: inline-block;
+}
+
+h3{
+    display: inline-block;
+}
+
+ul{
+    display: inline-block;
+}
+
+li{
+    border-radius: 5px;
+    height: 12px;
+    width: 12px;
+    display: inline-block;
+}
+
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
